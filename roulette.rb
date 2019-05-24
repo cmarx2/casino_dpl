@@ -43,7 +43,7 @@ end
         bet_parity
         if @parity_choice == @parity ? winning_bet : losing_bet
         end
-      
+              
       when 4
         break # exit to main casino
       when 5
